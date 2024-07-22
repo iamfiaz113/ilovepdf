@@ -5,7 +5,7 @@ require_once('../vendor/autoload.php');
 //require_once('../init.php')
 
 use Ilovepdf\HtmlpdfTask;
-// its the verison 1
+// its the verison 2
 
 // you can call task class directly
 // to get your key pair, please visit https://developer.ilovepdf.com/user/projects
